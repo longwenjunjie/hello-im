@@ -13,6 +13,7 @@ workerman（即时通讯框架） + fastadmin（后台开发框架） + flutter�
             账号：admin 密码：123456
 
 -client：客户端源码
+    四个模块：会话、联系人、发现、我的
 
 -server：消息服务源码
     参考：https://github.com/walkor/workerman-chat
