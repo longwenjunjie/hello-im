@@ -1,3 +1,5 @@
 import 'package:im/base/base_provider.dart';
 
-class SessionsProvider extends BaseProvider {}
+class SessionsProvider extends BaseProvider {
+  List datas = [];
+}

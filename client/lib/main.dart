@@ -58,7 +58,7 @@ class _MyAppState extends State<MyApp> {
             initialRoute: 'main',
             onGenerateRoute: (RouteSettings settings) => MaterialPageRoute(builder: (context) => null),
             onGenerateTitle: (context) {
-              return "云起医疗";
+              return "Hello IM";
             },
             theme: provider.getTheme(context: context),
             darkTheme: provider.getTheme(context: context, isDarkMode: true),
